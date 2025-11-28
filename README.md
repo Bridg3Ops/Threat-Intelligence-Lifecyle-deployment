@@ -60,8 +60,4 @@ By the end of this project, I was able to:
 
 ---
 
-## Screenshots
-*(Add screenshots of OSINT results, firewall log files, Windows Event logs, honeypot data, etc.)*
-
----
 
